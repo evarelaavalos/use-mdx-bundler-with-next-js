@@ -19,3 +19,7 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.largeTitle {
+  color: darkgoldenrod;
+}
